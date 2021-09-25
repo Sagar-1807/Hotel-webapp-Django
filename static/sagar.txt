@@ -1,0 +1,1 @@
+Hi this is static file for django project.
